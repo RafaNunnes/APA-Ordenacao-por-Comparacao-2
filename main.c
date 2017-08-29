@@ -15,7 +15,7 @@ int main()
 			vAux[i] = vetor[i];
 		}
 		
-		printf("\nEscolha o metodo de Ordenacao:\n  \t1. Merge Sort\n \t2. Selection Sort\n \t3. Insertion Sort\n \t0. SAIR\n");
+		printf("\nEscolha o metodo de Ordenacao:\n  \t1. Merge Sort\n \t2. Quick Sort\n \t3. Heap Sort\n \t0. SAIR\n");
 
 		scanf("%i", &key);
 
